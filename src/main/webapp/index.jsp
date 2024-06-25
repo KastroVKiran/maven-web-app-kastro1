@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Hello Learners <font></h1>
+<h1><font color='red'> Hello <font></h1>
 
 <a href="http://www.youtube.com/@LearnWithKASTRO">Click Here To See My YouTube Channel</a>
   

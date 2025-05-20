@@ -6,6 +6,3 @@ EXPOSE 8080
 
 # Copy the war file to the webapps directory of Tomcat
 COPY app.war /usr/local/tomcat/webapps/
-
-
-
